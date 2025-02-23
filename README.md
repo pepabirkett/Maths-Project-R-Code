@@ -7,8 +7,9 @@ The code and data for this project can be found in this repository:
 
 ## Data Files
 You can access the raw data files here: 
-[
-
+[Github Repository - Maths-Project-R-Code](https://github.com/pepabirkett/Maths-Project-R-Code)
+All raw data was originally sourced through Project Gutenberg, before we cleaned and preprocessed the data for usage in our analysis: 
+https://www.gutenberg.org/
 
 ## How to Run the Code
 1. Install necessary packages, all detailed in R script files
