@@ -1,6 +1,15 @@
 # Maths-Project-R-Code
 This repository details the R code used in our Y4 Mathematics Project, The University of Edinburgh. 
 
+## Repository Link
+The code and data for this project can be found in this repository:
+[Github Repository - Maths-Project-R-Code](https://github.com/pepabirkett/Maths-Project-R-Code)
+
+## Data Files
+You can access the raw data files here: 
+[
+
+
 ## How to Run the Code
 1. Install necessary packages, all detailed in R script files
 2. Create folders for use with different R-scripts:
