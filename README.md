@@ -11,6 +11,10 @@ You can access the raw data files here:
 All raw data was originally sourced through Project Gutenberg, before we cleaned and preprocessed the data for usage in our analysis: 
 https://www.gutenberg.org/
 
+## Citation
+If you use this project in your research, please cite it as:
+[Pepa Birkett, Anisah Khanom, Runlin Chen, Maths-project-R-Code, Github repository, 2025](https://github.com/pepabirkett/Maths-Project-R-Code)
+
 ## How to Run the Code
 1. Install necessary packages, all detailed in R script files
 2. Create folders for use with different R-scripts:
