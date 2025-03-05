@@ -1,5 +1,7 @@
 # Maths-Project
 Authors: Pepa Birkett, Anisah Khanom, Runlin Chen
+
+
 This repository details the R code used in our Y4 Mathematics Project, The University of Edinburgh. 
 
 ## Abstract
