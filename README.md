@@ -9,7 +9,7 @@ Stylometry is the statistical analysis of literary style. Stylometric methods ar
 
 ## Paper and references
 You can access our paper and references here: 
-[Paper and references](https://github.com/pepabirkett/Maths-Project-R-Code/Paper_and_References)
+[Paper and references](https://github.com/pepabirkett/Maths-Project-R-Code/tree/bde4dfc86c141dc074036502fa57cc91298e1832/Paper%20and%20References)
 
 ## Data Files
 You can access the raw data files here: 
