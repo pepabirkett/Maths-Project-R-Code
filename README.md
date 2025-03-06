@@ -1,4 +1,4 @@
-# Maths-Project
+# Stories, Sonnets and Scripts: A Stylometric Analysis of Literature
 Authors: Pepa Birkett, Anisah Khanom, Runlin Chen
 
 
